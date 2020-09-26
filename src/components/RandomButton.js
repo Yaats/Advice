@@ -3,8 +3,8 @@ import React from 'react';
 const RandomButton = () => {
     return (
         <div>
-            <button className='ui violet button'>
-                Get a random advice
+            <button className='ui violet button massive'>
+                Get a life advice
             </button>
         </div>
     );
